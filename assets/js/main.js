@@ -35,7 +35,7 @@ for (let i = 1; i < 101; i++) {
         console.log('Fizz');
         valor.innerHTML = 'Fizz'
         valor.classList.remove("bg-pink");
-        valor.classList.add("bg-light");
+        valor.classList.add("bg-success");
 
     } else {
 
