@@ -1,0 +1,11 @@
+.bg-pink {
+    background-color: pink;
+}
+
+.square {
+    height: 80px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
